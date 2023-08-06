@@ -64,19 +64,19 @@ Linux下 C轻量级Web服务器，Browser/Server（浏览器/服务器）结构�
 
 - 浏览器端
 
-![](.\static\http.jpg)
+![](https://github.com/YuGong123/http-server/blob/master/static/http.jpg)
 
 
 
 - 请求视频文件演示(46.1M)
 
-![](.\static\single.jpg)
+![](https://github.com/YuGong123/http-server/blob/master/static/single.jpg)
 
 
 
 - 本地server端
 
-![](C:\Users\GIGA\Desktop\http-server\static\server.jpg)
+![](https://github.com/YuGong123/http-server/blob/master/static/server.jpg)
 
 
 
@@ -84,7 +84,7 @@ Linux下 C轻量级Web服务器，Browser/Server（浏览器/服务器）结构�
 
 - 压力测试
 
-<video id="video" controls=""src="./static/压力测试.mp4" preload="none">
+<video id="video" controls=""src="https://github.com/YuGong123/http-server/blob/master/static/%E5%8E%8B%E5%8A%9B%E6%B5%8B%E8%AF%95.mp4" preload="none">
 
 
 
@@ -119,13 +119,13 @@ while ((n = read(fd, buf, sizeof(buf))) > 0) {
 
 情况一：
 
-![](.\static\Resource temporarily unavailable.jpg)
+![](https://github.com/YuGong123/http-server/blob/master/static/Resource%20temporarily%20unavailable.jpg)
 
 
 
 情况二：
 
-![](.\static\Connection reset by peer.jpg)
+![](https://github.com/YuGong123/http-server/blob/master/static/Connection%20reset%20by%20peer.jpg)
 
 
 
