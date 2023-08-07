@@ -81,7 +81,8 @@ Linux下 C轻量级Web服务器，Browser/Server（浏览器/服务器）结构�
 
 
 - 压力测试--音频文件
-<video id="video" controls="" src="https://github.com/YuGong123/http-server/assets/91369699/4036cbb1-847b-462f-8fbb-1acfb6df3e91" ></video>
+
+https://github.com/YuGong123/http-server/assets/91369699/4036cbb1-847b-462f-8fbb-1acfb6df3e91
 
 
 
