@@ -80,13 +80,7 @@ Linux下 C轻量级Web服务器，Browser/Server（浏览器/服务器）结构�
 
 
 
-- 压力测试--音频文件
-
-https://github.com/YuGong123/http-server/assets/91369699/4036cbb1-847b-462f-8fbb-1acfb6df3e91
-
-
-
-- 压力测试--视频文件
+- 视频演示
 
 
 https://github.com/YuGong123/http-server/assets/91369699/c63b808a-e4a5-4b32-a522-dd520f3f6139
@@ -456,14 +450,14 @@ post请求是要的同时，会携带数据过去，给服务器一点东西。
   
     源码：
   
-	username: hello
+    	username=hello&password=123
 
-	password: 123
 
     解析后的数据：
   
-  	username=hello&password=123
+	username: hello
 
+	password: 123
 
 
 
